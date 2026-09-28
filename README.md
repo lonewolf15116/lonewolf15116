@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lonewolf15116
 - 👀 I’m interested in Blockchain technology 
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on hfsp
 - 📫 How to reach me mahesh15116@gmail.com
 
 <!---
