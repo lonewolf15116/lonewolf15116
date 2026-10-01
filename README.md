@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @lonewolf15116
-- 👀 I’m interested in Blockchain technology 
-- 🌱 I’m currently learning solidity
-- 📫 How to reach me mahesh15116@gmail.com
+# Hi, I'm Mahesh Reddy Pagadala 👋
 
-<!---
-lonewolf15116/lonewolf15116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MSc Artificial Intelligence  
+🔬 Interested in ML systems, efficient deep learning, and AI engineering
+
+My current research focuses on memory management for deep neural network
+training, particularly Dynamic Tensor Rematerialization (DTR) under
+memory-constrained execution.
+
+## Research interests
+
+- ML Systems
+- Efficient Deep Learning
+- DNN Training & Memory Management
+- Dynamic Tensor Rematerialization
+- Deep Learning Systems
+
+## Selected work
+
+- **DTR Regime Switching** — investigating deterministic feasibility
+  failures in Dynamic Tensor Rematerialization
+- **GA vs Random Search HPO** — experimental comparison of optimisation
+  strategies for deep-learning hyperparameter search
+- **Veridex** — AI/software project exploring independent model critique
+
+## Tech
+
+Python • PyTorch • Deep Learning • Machine Learning • Git • Linux
